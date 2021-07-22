@@ -1,1 +1,1 @@
-# docs.nengxuehui.cn
+# nengxuehui.cn
