@@ -11,20 +11,19 @@ The Application may update this Privacy Policy from time to time. By agreeing to
 This privacy policy applies to the iOS main app itself, its embedded frameworks and app extensions
 ### Data Collected
 We do not collect any content you created.
-We only anonymous collect the usage info of app listed below:
+This app uses Google's Firebase to anonymously collect the usage information of the app listed below:
 
-- App launch time.
-- How long user will spend on each app page.
-- What action has the user takes.
 - App's crash info.
+- How lang time spend by App launch.
+- How long time the user spend on each app page.
+- What action has the user takes.
 
 All the data is anonymous. We don't know who takes the action exactly, and all of the data will be shared with Google's Firebase service only.
 
-### What 3rd party services do we use
-We use Google's Firebase to analytics the anonymous usage data.
+### Data storage
+We don't send any of the data you create to the server, the data is just stored in your app.
 
 ### Cookies
-
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
 The Application does not use these "cookies" explicitly. However, the app may use third-party code or websites that may collect cookies to improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device.
