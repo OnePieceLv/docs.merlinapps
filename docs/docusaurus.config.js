@@ -23,9 +23,9 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'Privacy & Terms/privacy',
+          docId: 'privacy&terms/privacy',
           position: 'right',
-          label: 'Privacy & Terms',
+          label: 'Privacy&Terms',
         },
         {
           type: 'localeDropdown',
