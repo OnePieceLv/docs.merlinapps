@@ -19,6 +19,8 @@ This app uses Google's Firebase to anonymously collect the usage information of 
 - What action has the user takes.
 
 All the data is anonymous. We don't know who takes the action exactly, and all of the data will be shared with Google's Firebase service only.
+### Data Disclosure
+We will not share your information with third parties unless you give us permission to do so
 
 ### Data storage
 We don't send any of the data you create to the server, the data is just stored in your app.
