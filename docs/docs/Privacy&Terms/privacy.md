@@ -4,9 +4,9 @@ title: Privacy
 
 ## Privacy Policy
 
-This application is an instant translation and English grammar analysis learning software.
+We respects and protects the personal privacy of all users of the Services. This Privacy Policy explains what content and information the App collects about you and how it uses and protects that information 
 
-The Application respects and protects the personal privacy of all users of the Services. The Application may update this Privacy Policy from time to time. By agreeing to the Service Use Agreement, you are deemed to have agreed to this Privacy Policy in its entirety. This Privacy Policy is an integral part of this Application Service Use Agreement.
+The Application may update this Privacy Policy from time to time. By agreeing to the Service Use Agreement, you are deemed to have agreed to this Privacy Policy in its entirety. This Privacy Policy is an integral part of this Application Service Use Agreement.
 
 This privacy policy applies to the iOS main app itself, its embedded frameworks and app extensions
 ### Data Collected
