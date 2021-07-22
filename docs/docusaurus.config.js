@@ -5,13 +5,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: '牛牛ABC',
   tagline: 'Make your life easily',
-  url: 'https://nengxuehui.cn',
-  baseUrl: '/',
+  url: 'https://OnePicecLv.github.io/',
+  baseUrl: '/docs.merlinapps/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'OnePieceLv', // Usually your GitHub org/user name.
   projectName: 'docs.merlinapps', // Usually your repo name.
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: '',
