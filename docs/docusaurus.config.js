@@ -6,7 +6,7 @@ module.exports = {
   title: '牛牛ABC',
   tagline: 'Make your life easily',
   url: 'https://OnePicecLv.github.io/',
-  baseUrl: '/docs.merlinapps/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
