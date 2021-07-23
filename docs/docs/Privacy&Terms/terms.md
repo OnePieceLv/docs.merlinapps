@@ -22,4 +22,4 @@ Before refunding your money，please make it a priority to [contact us](mailto:s
 It's important to note that the refund process for iOS apps is not in the hands of the developer, so we can only recommend that you reach out to Apple's support team to handle the process.
 
 ### Changes to This Terms of Service
-We may update our Terms of Service from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms of Service on this page. These changes are effective immediately after they are posted on this page.
+We may update our Terms of Use from time to time. Therefore, we recommend that you review this page periodically for updates. We will notify you of any changes by posting the new Terms of Use on this page. These changes are effective immediately upon posting on this page.
