@@ -1,0 +1,10 @@
+{
+  "item.label.Privacy&Terms": {
+    "message": "Privacy&Terms",
+    "description": "Navbar item with label Privacy&Terms"
+  },
+  "item.label.Eidt on GitHub": {
+    "message": "Eidt on GitHub",
+    "description": "Navbar item with label Eidt on GitHub"
+  }
+}
