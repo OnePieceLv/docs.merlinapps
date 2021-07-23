@@ -3,7 +3,7 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.privacy&terms": {
+  "sidebar.tutorialSidebar.category.Privacy&Terms": {
     "message": "隐私和服务",
     "description": "The label for category privacy&terms in sidebar tutorialSidebar"
   }

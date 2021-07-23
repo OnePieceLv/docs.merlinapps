@@ -34,7 +34,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'privacy&terms/privacy',
+          docId: 'Privacy&Terms/privacy',
           position: 'right',
           label: 'Privacy&Terms',
         },
