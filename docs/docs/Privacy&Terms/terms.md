@@ -18,7 +18,7 @@ When the same Apple ID is used on multiple devices, please follow the official A
 
 We reserve the right to address serious violations of these Terms, including but not limited to removal of unlocked content.
 ### Refund
-Before refunding your money，please make it a priority to[contact us](mailto:support@nengxuehui.cn)to resolve your needs。If your needs are still not met，we recommend that you contact Apple's support team to process a refund，which is available [here](https://support.apple.com/zh-cn/HT204084). 
+Before refunding your money，please make it a priority to [contact us](mailto:support@nengxuehui.cn) to resolve your needs。If your needs are still not met，we recommend that you contact Apple's support team to process a refund，which is available [here](https://support.apple.com/zh-cn/HT204084). 
 It's important to note that the refund process for iOS apps is not in the hands of the developer, so we can only recommend that you reach out to Apple's support team to handle the process.
 
 ### Changes to This Terms of Service
