@@ -12,7 +12,10 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'OnePieceLv', // Usually your GitHub org/user name.
   projectName: 'docs.merlinapps', // Usually your repo name.
-  trailingSlash: false,
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'zh-cn'],
+  },
   themeConfig: {
     navbar: {
       title: '',
@@ -37,10 +40,6 @@ module.exports = {
           position: 'right',
         },
       ],
-    },
-    i18n: {
-      defaultLocale: 'en',
-      locales: ['en', 'zh-cn'],
     },
     footer: {
       style: 'dark',

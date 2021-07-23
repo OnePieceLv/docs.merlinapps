@@ -30,9 +30,9 @@ Cookies是含有少量数据的文件，通常作为匿名的唯一标识符使�
 本应用程序没有明确使用这些 "cookies"。然而，本应用程序可能使用第三方代码或网站，这些代码或网站可能收集cookies以改善其服务。你可以选择接受或拒绝这些 
 
 
-### Changes to This Privacy Policy {#changes-to-this-privacy-policy}
+### 使用条款变更 {#changes-to-this-privacy-policy}
 我们可能会不时地更新我们的隐私政策。因此，我们建议你定期查看本页面以了解任何变化。我们将通过在本页面上发布新的隐私政策来通知您任何变化。这些变化在本页面上公布后立即生效。
 
 
-### Contact Us {#contact-us}
+### 联系我们 {#contact-us}
 如果您对我们的隐私政策有任何疑问或建议，请随时与我们联系：support@nengxuehui.cn。
