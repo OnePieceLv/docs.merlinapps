@@ -1,5 +1,5 @@
 ---
-title: Terms
+title: 使用条款
 ---
 
 ## 使用条款 {#terms-of-service}

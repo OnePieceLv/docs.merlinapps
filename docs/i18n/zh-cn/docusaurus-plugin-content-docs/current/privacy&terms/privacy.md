@@ -1,5 +1,5 @@
 ---
-title: Privacy
+title: 隐私协议
 ---
 
 ## 隐私协议 {#privacy-policy}
