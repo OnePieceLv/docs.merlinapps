@@ -6,7 +6,10 @@ title: 快速开始
 ---
 
 ## 牛牛ABC
-牛牛ABC 是一个提供中英文即时翻译和英语句法分析的学习类软件。
+本文档提供了关于应用的一些说明，我们会及时更新这个文档以适应应用的变化
+
+## 功能介绍 {#features}
+[更新记录](features.md) 
 
 ## Legal {#legal}
 [隐私协议](Privacy&Terms/privacy.md)

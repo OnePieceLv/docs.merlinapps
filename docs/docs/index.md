@@ -6,7 +6,10 @@ sidebar_position: 0
 
 # Quick Start
 ## 牛牛ABC
-牛牛ABC 是一个提供中英文即时翻译和英语句法分析的学习类软件。
+This document provides some notes about the application, we will update this document to adapt to the changes of the application
+
+## Features
+[ReleaseNote](features.md) 
 
 ## Legal {#legal}
 [Privacy](Privacy&Terms/privacy.md)
