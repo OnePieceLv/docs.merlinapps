@@ -12,6 +12,8 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'OnePieceLv', // Usually your GitHub org/user name.
   projectName: 'docs.merlinapps', // Usually your repo name.
+  USE_SSH: true,
+  GIT_USER: 'OnePieceLv',
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'zh-cn'],
