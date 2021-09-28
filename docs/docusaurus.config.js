@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: '牛牛ABC',
+  title: '学霸爱词句',
   tagline: 'Make your life easily',
   url: 'https://OnePicecLv.github.io/',
   baseUrl: '/',

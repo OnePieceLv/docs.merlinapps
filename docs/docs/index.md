@@ -5,7 +5,7 @@ sidebar_position: 0
 ---
 
 # Quick Start
-## 牛牛ABC
+## 学霸爱词句
 This document provides some notes about the application, we will update this document to adapt to the changes of the application
 
 ## Features
