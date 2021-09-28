@@ -5,7 +5,7 @@ sidebar_position: 0
 ---
 
 # Quick Start
-## 学霸爱词句
+## 句句通-英语学习翻译 All In One
 This document provides some notes about the application, we will update this document to adapt to the changes of the application
 
 ## Features
