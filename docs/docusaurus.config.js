@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: '句句通-英语学习翻译 All In One',
+  title: '词典ABC-查词/语法/翻译 All in One',
   tagline: 'Make your life easily',
   url: 'https://OnePicecLv.github.io/',
   baseUrl: '/',
